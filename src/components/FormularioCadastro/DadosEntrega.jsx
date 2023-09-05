@@ -78,7 +78,7 @@ function DadosEntrega({ aoEnviar }) {
       />
 
       <Button type="submit" variant="contained" fullWidth>
-        Finalizar cadastro
+        Finalizar Cadastro
       </Button>
     </form>
   );
